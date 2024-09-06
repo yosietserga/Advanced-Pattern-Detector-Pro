@@ -1,9 +1,3 @@
-Certainly! I'll provide a detailed description of the script, installation instructions, usage guide, steps checklist, and a sequence diagram of the steps.
-
-### Detailed Description of the Script
-
-This PineScript indicator, named "Advanced Pattern Detector Pro [Yosiet]", is a sophisticated tool designed for TradingView charts. It combines multiple technical analysis techniques to identify complex trading patterns across different market sessions, with a particular focus on the Asian and New York trading hours.
-
 Key features of the script include:
 
 1. Detection of multiple candlestick patterns:
